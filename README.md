@@ -16,10 +16,10 @@ I'm an experienced **Human Resources Manager** with a background in the **hospit
 - **Consulting:** Offering HR expertise and process optimization for businesses.
 
 ## 🛠 Skills & Tools
-- **HR Systems:** [Insert HR software here]
+- **HR Systems:** Sunfish, Fusion
 - **Payroll Management:** Experienced in Indonesia and Singapore tax and payroll systems.
 - **Tools:** Microsoft Office, Google Workspace, ATS, Slack, Asana, Trello
-- **Languages:** English, Indonesian
+- **Languages:** English, Russian and Indonesian
 
 ## 🌱 Currently Learning
 - Improving my skills in **Talent Acquisition** and **HR Analytics**
